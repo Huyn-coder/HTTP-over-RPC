@@ -1,6 +1,6 @@
 # Project 3: HTTP over RPC (HTTP Proxy)
 
-**Student:** Dang Trung Nguyen - 22BA13239  
+**Group ID:** 16 
 **Course:** Distributed Systems 2026
 
 ## 📋 Overview
@@ -255,8 +255,3 @@ ANALYTICS REPORT
 | 3 | Performance + DFS | `rpc_worker.py` (file-based cache) |
 | 4 | Testing + Demo | `test_proxy.py`, demo script |
 
----
-
-## 📝 License
-
-MIT License - USTH Distributed Systems 2026
