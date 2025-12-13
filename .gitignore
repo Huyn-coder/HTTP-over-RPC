@@ -1,0 +1,19 @@
+# Cache files
+src/cache_data/*.json
+cache_data/
+
+# Log files  
+src/logs/*.log
+src/logs/*.csv
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# IDE
+.vscode/
+.idea/
+
